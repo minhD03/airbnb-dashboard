@@ -22,7 +22,7 @@ The dataset contains information including:
 - Date tables.
   
 ## 3) Screenshots:
-![alt text](https://github.com/minhD03/airbnb-dashboard/blob/32c601e26889f6ea4bd409a972dd85aa0e9d4d54/images/dashboard.png)
+![alt text](https://github.com/minhD03/airbnb-dashboard/blob/1b005ecdff67b3859ec6545a6bd9ca6436c6582a/images/dashboard.png)
 
 ## 4) Key Measures:
 ### a) Full moon reviews sentiment:
