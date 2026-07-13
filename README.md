@@ -1,5 +1,15 @@
 # Airbnb Review Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGU4Y2Q0NTAtNzU1ZC00NDIwLTg2NzItMGUxOTA0MWE1NDg3IiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
-## 1) Overview:
+
+## Table of Contents
+
+- [1) Introduction](#1-introduction)
+- [2) Datasets](#2-datasets)
+- [3) Screenshots](#3-screenshots)
+- [4) Key Measures](#4-key-measures)
+- [5) Key findings](#5-key-findings)
+- [6) Conclusions](#6-conclusions)
+
+## 1) Introduction:
 This dashboard is the continuous of the [Airbnb project](https://github.com/minhD03/airbnb-project.git), using the datasets collected from the project. 
 
 Problem Statement: For accommodation platforms such as Airbnb, customer reviews significantly influence booking decisions and host reputation. However, understanding what drives positive and negative guest experiences requires analyzing large volumes of review data alongside listing characteristics.
@@ -14,7 +24,7 @@ This project aims to answer the following business questions:
 - Is there any measurable relationship between Full Moon events and guest review sentiment?
 - Which listings generate the highest customer engagement?
 
-## 2) Dataset:
+## 2) Datasets:
 ![alt text](https://github.com/minhD03/airbnb-dashboard/blob/32c601e26889f6ea4bd409a972dd85aa0e9d4d54/images/data.png)
 The dataset contains information including:
 - Reviews from customer and full moon labelled: I want to digest deeper to see whether full moon days affect the reviews sentiments.
