@@ -4,7 +4,7 @@
 
 - [1) Introduction](#1-introduction)
 - [2) Datasets](#2-datasets)
-- [3) Screenshots](#3-screenshots)
+- [3) Dashboard Pages](#3-dashboard-pages)
 - [4) Key Measures](#4-key-measures)
 - [5) Key findings](#5-key-findings)
 - [6) Conclusions](#6-conclusions)
@@ -31,7 +31,7 @@ The dataset contains information including:
 - Hosts and their Listings.
 - Date tables.
   
-## 3) Screenshots:
+## 3) Dashboard Pages:
 ![alt text](https://github.com/minhD03/airbnb-dashboard/blob/1b005ecdff67b3859ec6545a6bd9ca6436c6582a/images/dashboard.png)
 
 ## 4) Key Measures:
